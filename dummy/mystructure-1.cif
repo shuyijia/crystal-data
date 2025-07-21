@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ca4O4
+_chemical_formula_sum              "Ca4 O4"
+_cell_length_a       4.80711139
+_cell_length_b       4.80711139
+_cell_length_c       4.80711139
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.0008989218389894888  0.9969577271855492  0.0019382809049650512  1.0000
+  Ca  Ca2       1.0  0.9976910709075391  0.49826248525547967  0.5005260396898477  1.0000
+  Ca  Ca3       1.0  0.49898534925821914  0.00043917026344889043  0.4993983680019507  1.0000
+  Ca  Ca4       1.0  0.5040493380048927  0.5026561330874312  0.0004510296981928887  1.0000
+  O   O1        1.0  0.004701761709564369  0.4980081180698197  0.0006865893653357081  1.0000
+  O   O2        1.0  0.9995494289784109  0.999925430762882  0.49939499886539007  1.0000
+  O   O3        1.0  0.5022084116925015  0.5008151739273037  0.4955107631605943  1.0000
+  O   O4        1.0  0.49823726300642635  0.0006127843883182282  0.9991803131412261  1.0000
