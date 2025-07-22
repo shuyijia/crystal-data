@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sr2VO4
+_chemical_formula_sum              "Sr2 V1 O4"
+_cell_length_a       3.88529032499784
+_cell_length_b       3.8852905466920333
+_cell_length_c       6.940265717982264
+_cell_angle_alpha    106.25481158305621
+_cell_angle_beta     106.25488845523256
+_cell_angle_gamma    89.99977142265607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6454908473924542  0.6454908001635361  0.29098236248781584  1.0000
+  Sr  Sr2       1.0  0.3545092556818258  0.35450917861299275  0.7090176892868453  1.0000
+  V   V1        1.0  0.9999998393868603  1.167573590334083e-07  0.9999999578899339  1.0000
+  O   O1        1.0  0.8424909406380192  0.8424909133499736  0.6849826373410207  1.0000
+  O   O2        1.0  0.1575091142711823  0.15750903031755267  0.31501735863278735  1.0000
+  O   O3        1.0  0.9999999857603892  0.4999999538168402  0.9999999886314285  1.0000
+  O   O4        1.0  0.5000000160105837  9.72038518451962e-09  3.0418504084129983e-09  1.0000
